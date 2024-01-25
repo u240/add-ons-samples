@@ -28,14 +28,14 @@ Download the sample app and navigate into the app directory:
 1.  Clone the [Gmail add-ons samples][github-repo], to your local
     machine:
 
-        git clone https://github.com/googlesamples/add-ons-samples.git
+        git clone https://github.com/googleworkspace/add-ons-samples.git
 
     Alternatively, you can [download the sample][github-zip] as a zip file and
     extract it.
 
 2.  Change to the sample directory:
 
-        cd add-ons-samples/github
+        cd add-ons-samples/apps-script/github
 
 3.  Initialize the project:
 
@@ -133,9 +133,9 @@ This sample is licensed under the [Apache 2 license][license].
 [node]:https://nodejs.org/en/
 [apps-script]: https://script.google.com
 [github-repo]: https://github.com/googleworkspace/add-ons-samples
-[github-zip]: https://github.com/googleworkspace/add-ons-samples/archive/master.zip
-[contributing]: https://github.com/googleworkspace/add-ons-samples/blob/master/CONTRIBUTING.md
-[license]: https://github.com/googleworkspace/add-ons-samples/blob/master/LICENSE
+[github-zip]: https://github.com/googleworkspace/add-ons-samples/archive/main.zip
+[contributing]: https://github.com/googleworkspace/add-ons-samples/blob/main/CONTRIBUTING.md
+[license]: https://github.com/googleworkspace/add-ons-samples/blob/main/LICENSE
 [gmail]: https://mail.google.com/
 [github]: https://github.com
 [github-oauth]: https://developer.github.com/apps/building-integrations/setting-up-and-registering-oauth-apps/registering-oauth-apps/
